@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local config
+.env
+
+# Local database and tooling
+*.db
+*.sqlite3
+.pytest_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+CLAUDE.local.md
